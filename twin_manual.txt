@@ -1,0 +1,15 @@
+DIGITAL TWIN MANUAL - SECTOR 4
+
+Section 1: HVAC System
+Machine Name: HVAC-Unit-99
+Max Safe Temperature: 85 Degrees Fahrenheit
+The HVAC system uses a standard compressor and a backup fan.
+
+Section 2: Emergency Protocols
+Emergency Shutdown Code: 4477
+Warning: If pressure exceeds 150 PSI, immediately close Valve B.
+Failure to close Valve B will result in a system lock down.
+
+Section 3: Maintenance
+Maintenance Schedule: Every Tuesday at 08:00 AM
+Always wear protective gloves when handling the pressure valves.

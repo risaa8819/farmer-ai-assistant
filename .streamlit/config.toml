@@ -1,0 +1,14 @@
+[theme]
+# The buttons, chat bubbles, and sliders will be this vibrant green
+primaryColor="#388E3C" 
+
+# The main chat area will be clean, crisp WHITE
+backgroundColor="#FFFFFF" 
+
+# The sidebar will be a soft, earthy green
+secondaryBackgroundColor="#E8F5E9" 
+
+# Normal text will be a dark charcoal (easier to read than pure black)
+textColor="#333333" 
+
+font="sans serif"
